@@ -40,7 +40,7 @@ A beautifully designed and responsive **landing page** project developed during 
 
 ## 🔗 Live Demo
 
-> _Coming soon_ (Optional: Add Netlify or GitHub Pages link after deployment)
+> https://modern-landing-ui.netlify.app/
 
 ---
 
